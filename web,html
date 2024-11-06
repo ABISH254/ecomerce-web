@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>javaHouse</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="file:///C:/Users/abiol/Desktop/ASSIGNMENT/ORDER.html">
+</head>
+<body>
+    <div class="container">
+        <h1>jAVAhouse</h1>
+        <div class="navbar">
+            <ul>
+                <li><a href="https://www.ubereats.com/ke/store/java-house-garden-city/-RF8p4TLQMqNXh_KObdL-A?srsltid=AfmBOoqwq_wnF9_NOt-Fls-ozNASDg1aayuS6R4-5QneG21grBOqLqU0"><link rel="stylesheet" href=""> HOME</a></li>
+                <li><a href="h">ABOUT</a></li>
+                <li><a href="#">MENU</a></li>
+                <li><a href="#">GALLERY</a></li>
+                <li><a href="#">TEAM</a></li>
+                <li><a href="https://wa.me/0796538128">CONTACT</a></li>
+                <li><a class="reservation" href="#">RESERVATION</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="content">
+        <h3>Welcome to jAVAhouse</h3>
+        <h1>Rich Healthy & Natural Food</h1>
+        <p><i>jAVAhouse is located along Kisumu-Maseno Road. Bring your Appettite & we'll take care of the food.Take your loved ones by the hand</p>
+    </div>
+    <div class="search">
+        <input type="text" placeholder="order your meal">
+    </div>
+    <div class="submit">
+        <a href="https://www.ubereats.com/ke/store/java-house-garden-city/-RF8p4TLQMqNXh_KObdL-A?srsltid=AfmBOoqwq_wnF9_NOt-Fls-ozNASDg1aayuS6R4-5QneG21grBOqLqU0">ORDER HERE</a>
+    </div>
+    <div class="icons">
+        <div class="contact">
+            <p>CONTACT INFO:</p>
+        <a href="https://www.facebook.com/javahouseafrica/"><ion-icon name="logo-facebook"></ion-icon></a>
+        <a href="https://wa.me/0796538128"><ion-icon name="logo-whatsapp"></ion-icon></a>
+        <a href="https://www.youtube.com/watch?v=JEIEsrjBpT8"><ion-icon name="logo-youtube"></ion-icon></a>
+        <a href="https://www.instagram.com/javahouseafrica/?hl=en"><ion-icon name="logo-instagram"></ion-icon></a>
+        <a href="https://www.twitter.com/abiolamashood10?lang=en"><ion-icon name="logo-twitter"></ion-icon></a>
+    </div>
+    </div>
+    <div class="img">
+    </div>
+
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+</body>
+</html>
